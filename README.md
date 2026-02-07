@@ -1,6 +1,6 @@
 # Support Tickets API
 
-📌 **Projeto educacional de API REST com Node.js puro usando HTTP nativo**
+📌 **Projeto educacional de API com Node.js puro usando HTTP nativo**
 
 ## Descrição
 
